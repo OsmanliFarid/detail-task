@@ -1,4 +1,4 @@
-// app.js
+
 
 const body = document.body;
 const newBox = document.getElementById("newBox"); 
