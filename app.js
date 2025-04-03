@@ -1,7 +1,7 @@
 // app.js
 
 const body = document.body; // Body elementini seçirik
-const newBox = document.getElementById("newBox"); // 'newBox' elementini seçirik
+const newBox = document.getElementById("newBox"); 
 const newBox22 = document.getElementById("newBox22"); 
 const newBox3 = document.getElementById("newBox3"); 
 let indek = 0
